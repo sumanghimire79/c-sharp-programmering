@@ -1,0 +1,14 @@
+C:\Users\Suman\source\repos\ConsoleApp1-intro-25sep023\bin\Debug\ConsoleApp1-intro-25sep023.exe.config
+C:\Users\Suman\source\repos\ConsoleApp1-intro-25sep023\bin\Debug\ConsoleApp1-intro-25sep023.exe
+C:\Users\Suman\source\repos\ConsoleApp1-intro-25sep023\bin\Debug\ConsoleApp1-intro-25sep023.pdb
+C:\Users\Suman\source\repos\ConsoleApp1-intro-25sep023\obj\Debug\ConsoleApp1-intro-25sep023.csproj.AssemblyReference.cache
+C:\Users\Suman\source\repos\ConsoleApp1-intro-25sep023\obj\Debug\ConsoleApp1-intro-25sep023.csproj.CoreCompileInputs.cache
+C:\Users\Suman\source\repos\ConsoleApp1-intro-25sep023\obj\Debug\ConsoleApp1-intro-25sep023.exe
+C:\Users\Suman\source\repos\ConsoleApp1-intro-25sep023\obj\Debug\ConsoleApp1-intro-25sep023.pdb
+C:\Users\Suman\Dropbox_old\PC\Desktop\projects\c-sharp-programmering\week1\day1\ConsoleApp1-intro-25sep023\bin\Debug\ConsoleApp1-intro-25sep023.exe.config
+C:\Users\Suman\Dropbox_old\PC\Desktop\projects\c-sharp-programmering\week1\day1\ConsoleApp1-intro-25sep023\bin\Debug\ConsoleApp1-intro-25sep023.exe
+C:\Users\Suman\Dropbox_old\PC\Desktop\projects\c-sharp-programmering\week1\day1\ConsoleApp1-intro-25sep023\bin\Debug\ConsoleApp1-intro-25sep023.pdb
+C:\Users\Suman\Dropbox_old\PC\Desktop\projects\c-sharp-programmering\week1\day1\ConsoleApp1-intro-25sep023\obj\Debug\ConsoleApp1-intro-25sep023.csproj.AssemblyReference.cache
+C:\Users\Suman\Dropbox_old\PC\Desktop\projects\c-sharp-programmering\week1\day1\ConsoleApp1-intro-25sep023\obj\Debug\ConsoleApp1-intro-25sep023.csproj.CoreCompileInputs.cache
+C:\Users\Suman\Dropbox_old\PC\Desktop\projects\c-sharp-programmering\week1\day1\ConsoleApp1-intro-25sep023\obj\Debug\ConsoleApp1-intro-25sep023.exe
+C:\Users\Suman\Dropbox_old\PC\Desktop\projects\c-sharp-programmering\week1\day1\ConsoleApp1-intro-25sep023\obj\Debug\ConsoleApp1-intro-25sep023.pdb
