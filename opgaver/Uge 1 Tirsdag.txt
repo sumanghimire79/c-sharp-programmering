@@ -1,0 +1,45 @@
+--- Exercise 1 ---
+Class: Counter
+A simple tally counter that increments its value by 1 every click.
+Create the class with the following functionality:
+- 'Empty' constructor (no positional arguments required)
+- 'value' variable
+- 'Click()' method
+- 'Reset()' method
+Decide how to display your current value: After each function call? Only when asked?
+Create an object and test your class!
+
+
+--- Exercise 2 ---
+Class: Die
+A 6-sided die that can be rolled!
+- Consider how/if to keep track of your 6 sides.
+- Implement a 'Roll()' method, which returns a random integer (1 - 6)
+hint: The Random class is very helpful
+
+
+--- Exercise 3 ---
+Class: Die
+An n-sided die that can be rolled!
+(If you want to keep your old class intact, you can create this one with a different name.)
+- This time, every die you create takes an int (sides) as a parameter.
+- Consider which changes you have to make.
+- Implement the 'Roll()' function.
+
+
+--- Exercise 4 ---
+Class: Student
+For the purpose of this exercise, a student has a name and a test score based on the tests they've taken.
+- 'AddTest(score)'
+- 'GetTotalScore()'
+- 'GetAverageScore()'
+Which variables does your class need when you construct it?
+Implement the class and create an object to test it!
+
+
+--- Exercise 5 ---
+Class: BankAccount
+- Consider which fields/variables a bank account might need.
+- Consider what behaviour it needs to implement.
+- Now write the class! Both Constructor and a few required methods.
+Create an object to test the behaviour of your new class!
