@@ -1,0 +1,66 @@
+﻿@model IEnumerable<ItemLendSystemWithLogin.Models.Lend>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LendingDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LendingDays)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Note)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Item)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Borrower)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LendingDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LendingDays)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Note)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Borrower.Email)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.LID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.LID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.LID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
