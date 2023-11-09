@@ -8,7 +8,6 @@ namespace ItemLendSystemWithLogin.Controllers
     {
         // GET: CPanelController
         [Authorize(Roles = "Admin")]
-        //[Authorize]
         public ActionResult CPanel()
         {
             return View();

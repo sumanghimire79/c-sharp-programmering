@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suman\\source\\repos\\LandingSystemDemo\\ItemLendSystemwithLogin\\ItemLendSystemWithLogin.csproj": {}
+    "C:\\Users\\Suman\\Dropbox_old\\PC\\Desktop\\projects\\c-sharp-programmering\\eksamensopgave\\ItemLendSystemWithLogin\\ItemLendSystemWithLogin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suman\\source\\repos\\LandingSystemDemo\\ItemLendSystemwithLogin\\ItemLendSystemWithLogin.csproj": {
+    "C:\\Users\\Suman\\Dropbox_old\\PC\\Desktop\\projects\\c-sharp-programmering\\eksamensopgave\\ItemLendSystemWithLogin\\ItemLendSystemWithLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suman\\source\\repos\\LandingSystemDemo\\ItemLendSystemwithLogin\\ItemLendSystemWithLogin.csproj",
+        "projectUniqueName": "C:\\Users\\Suman\\Dropbox_old\\PC\\Desktop\\projects\\c-sharp-programmering\\eksamensopgave\\ItemLendSystemWithLogin\\ItemLendSystemWithLogin.csproj",
         "projectName": "ItemLendSystemWithLogin",
-        "projectPath": "C:\\Users\\Suman\\source\\repos\\LandingSystemDemo\\ItemLendSystemwithLogin\\ItemLendSystemWithLogin.csproj",
+        "projectPath": "C:\\Users\\Suman\\Dropbox_old\\PC\\Desktop\\projects\\c-sharp-programmering\\eksamensopgave\\ItemLendSystemWithLogin\\ItemLendSystemWithLogin.csproj",
         "packagesPath": "C:\\Users\\Suman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suman\\source\\repos\\LandingSystemDemo\\ItemLendSystemwithLogin\\obj\\",
+        "outputPath": "C:\\Users\\Suman\\Dropbox_old\\PC\\Desktop\\projects\\c-sharp-programmering\\eksamensopgave\\ItemLendSystemWithLogin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IUaoR/QLZCgSticPv7nBdqNg0t0sgbezRTEez9+ULmRLVQJhVE9ZkivXwFm4jiCh9T1UBs0sdXmBgWne1TYlNg==",
+  "dgSpecHash": "z+ZY3r/2k22XacKXowpViu583YZTzoyLwvGjob72ThDTm+loJg6Z8dRlgfVDhGYjyHOG3JqbtPBa714DawGUcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Suman\\source\\repos\\LandingSystemDemo\\ItemLendSystemwithLogin\\ItemLendSystemWithLogin.csproj",
+  "projectFilePath": "C:\\Users\\Suman\\Dropbox_old\\PC\\Desktop\\projects\\c-sharp-programmering\\eksamensopgave\\ItemLendSystemWithLogin\\ItemLendSystemWithLogin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Suman\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Suman\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

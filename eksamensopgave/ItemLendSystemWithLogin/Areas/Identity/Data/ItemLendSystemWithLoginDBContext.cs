@@ -9,6 +9,8 @@ public class ItemLendSystemWithLoginDBContext : IdentityDbContext<ItemLendSystem
 {
     public ItemLendSystemWithLoginDBContext(DbContextOptions<ItemLendSystemWithLoginDBContext> options): base(options){}
 
+    //need not need?
+    public DbSet<ItemLendSystemWithLoginUser> ItemLendSystemWithLoginUsers { get; set; }
     protected override void OnModelCreating(ModelBuilder builder)
     {
         base.OnModelCreating(builder);

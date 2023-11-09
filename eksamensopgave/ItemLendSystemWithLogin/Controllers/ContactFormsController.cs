@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ItemLendSystemWithLogin.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ItemLendSystemWithLogin.Controllers
 {
@@ -18,6 +19,7 @@ namespace ItemLendSystemWithLogin.Controllers
             _context = context;
         }
 
+        [Authorize(Roles = "Admin")]
         // GET: ContactForms
         public async Task<IActionResult> Index()
         {
@@ -44,12 +46,13 @@ namespace ItemLendSystemWithLogin.Controllers
             return View(contactForm);
         }
 
+
         // GET: ContactForms/Create
         public IActionResult Create()
         {
             return View();
         }
-
+       
         // POST: ContactForms/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
@@ -61,11 +64,14 @@ namespace ItemLendSystemWithLogin.Controllers
             {
                 _context.Add(contactForm);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                //return RedirectToAction(nameof(Index));
+                return RedirectToAction("Index","Home");
             }
             return View(contactForm);
         }
 
+
+        [Authorize(Roles = "Admin")]
         // GET: ContactForms/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -81,7 +87,7 @@ namespace ItemLendSystemWithLogin.Controllers
             }
             return View(contactForm);
         }
-
+        [Authorize(Roles = "Admin")]
         // POST: ContactForms/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
@@ -116,7 +122,7 @@ namespace ItemLendSystemWithLogin.Controllers
             }
             return View(contactForm);
         }
-
+        [Authorize(Roles = "Admin")]
         // GET: ContactForms/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
@@ -134,7 +140,7 @@ namespace ItemLendSystemWithLogin.Controllers
 
             return View(contactForm);
         }
-
+        [Authorize(Roles = "Admin")]
         // POST: ContactForms/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]

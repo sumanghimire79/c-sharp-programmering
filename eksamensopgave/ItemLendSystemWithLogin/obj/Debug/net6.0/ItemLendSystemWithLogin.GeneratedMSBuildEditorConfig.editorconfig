@@ -9,173 +9,181 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ItemLendSystemWithLogin
 build_property.RootNamespace = ItemLendSystemWithLogin
-build_property.ProjectDir = C:\Users\Suman\source\repos\LandingSystemDemo\ItemLendSystemwithLogin\
+build_property.ProjectDir = C:\Users\Suman\Dropbox_old\PC\Desktop\projects\c-sharp-programmering\eksamensopgave\ItemLendSystemWithLogin\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Suman\source\repos\LandingSystemDemo\ItemLendSystemwithLogin
+build_property.MSBuildProjectDirectory = C:\Users\Suman\Dropbox_old\PC\Desktop\projects\c-sharp-programmering\eksamensopgave\ItemLendSystemWithLogin
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Areas/Identity/Pages/_LoginLayout.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Areas/Identity/Pages/_LoginLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX0xvZ2luTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Borrowers/Create.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/AddRoles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/AddRoles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Borrowers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93ZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Borrowers/Delete.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Borrowers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93ZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Borrowers/Details.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Borrowers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93ZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Borrowers/Edit.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Borrowers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93ZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Borrowers/Index.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Borrowers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93ZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/ContactForms/Create.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/ContactForms/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdEZvcm1zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/ContactForms/Delete.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/ContactForms/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdEZvcm1zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/ContactForms/Details.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/ContactForms/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdEZvcm1zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/ContactForms/Edit.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/ContactForms/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdEZvcm1zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/ContactForms/Index.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/ContactForms/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdEZvcm1zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/CPanel/CPanel.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/CPanel/CPanel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1BhbmVsXENQYW5lbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Home/Index.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Home/Privacy.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Items/Create.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Items/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Items/Delete.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Items/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Items/Details.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Items/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Items/Edit.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Items/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Items/Index.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Items/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Lends/Create.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Lends/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVuZHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Lends/Delete.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Lends/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVuZHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Lends/Details.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Lends/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVuZHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Lends/Edit.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Lends/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVuZHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Lends/Index.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Lends/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVuZHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Owners/Create.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Owners/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Owners/Delete.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Owners/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Owners/Details.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Owners/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Owners/Edit.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Owners/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Owners/Index.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Owners/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Shared/Error.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/_ViewImports.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/_ViewStart.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Suman/source/repos/LandingSystemDemo/ItemLendSystemwithLogin/Views/Shared/_Layout.cshtml]
+[C:/Users/Suman/Dropbox_old/PC/Desktop/projects/c-sharp-programmering/eksamensopgave/ItemLendSystemWithLogin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-nrzencu189

@@ -6,9 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ItemLendSystemWithLogin.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ItemLendSystemWithLogin.Controllers
 {
+    [Authorize(Roles = "Admin,Borrower")]
     public class BorrowersController : Controller
     {
         private readonly ItemLendSystemwithLogin_systemDB _context;
